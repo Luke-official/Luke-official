@@ -31,7 +31,7 @@
 <p align="center"><b>Frontend & Build Tools (My Bread & Butter)</b></p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,css,sass,tailwind,vite,vitest,webpack,gulp&theme=dark" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,angular,css,sass,tailwind,vite,vitest,webpack,gulp&theme=dark" alt="Frontend"/>
   </a>
 </div>
 
